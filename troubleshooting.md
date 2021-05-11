@@ -72,7 +72,7 @@ Talon's icon should show up in the menu bar in the upper right corner of your sc
  />
 </details>
 
-You can also check which which microphone is selected by looking in the talon logs, which are located in `~/.talon/talon.log`. Look for a log that looks like this:
+You can also check which which microphone is selected by looking in the [talon logs](/troubleshooting#check-the-talon-logs). Look for a log that looks like this:
 
 `2020-03-04 15:27:53  INFO Activating Microphone: "Yeti Nano Analogue Stereo"`
 
